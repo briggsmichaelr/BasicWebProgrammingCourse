@@ -14,3 +14,13 @@ We will start with basic programming principles, then move quickly to getting th
 Students are highly encouraged to create content and give feedback to other students and the teacher. Not only will this help students learn better and more effectively, it will create a portfolio of work that can be shown to future employers to demonstrate the students’ knowledge.
 
 All content will be posted online on GitHub. If an in-person class is missed, a student should be able to catch up on their own.
+
+### Tentative Class Schedule
+**Module 1:** Class Introduction, Installing VS Code, Basic computer program (strings, printing, assigning variables, lists, loops, if statements)
+**Module 2:** Command Line (Terminal), Source Control (GitHub), list operations (concat, pop, sort)
+**Module 3:** Making a webpage (Basic HTML, Basic CSS, JavaScript)
+**Module 4:** Making an API (NodeJS, REST API's, Mongo DB)
+**Module 5:** AWS and Deploying Applications
+**Module 6:** Making responsive frontend applications (React JS)
+**Module 7:** Material UI and Docker
+**Module 8:** Putting it all together
