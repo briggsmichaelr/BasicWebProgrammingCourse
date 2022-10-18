@@ -16,7 +16,7 @@ Students are highly encouraged to create content and give feedback to other stud
 All content will be posted online on GitHub. If an in-person class is missed, a student should be able to catch up on their own.
 
 ### Tentative Class Schedule
-- **Module 1:** Class Introduction, Installing Node and VS Code, Command Line, Basic program (strings, variables, arrays, loops, if statements)
+- **Module 1:** Class Introduction, Install Node and VS Code, Command Line, Basic program (strings, variables, arrays, loops, if statements)
 - **Module 2:** Source Control (GitHub), list operations (concat, pop, sort), functions, object oriented programming
 - **Module 3:** Making a webpage (Basic HTML, Basic CSS, JavaScript)
 - **Module 4:** Making an API (REST API's, Mongo DB)
