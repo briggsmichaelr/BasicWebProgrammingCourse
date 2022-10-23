@@ -1,0 +1,10 @@
+# GitHub
+
+- Register for GitHub using this URL: https://github.com/join
+- Follow the prompts to input your email, password, and username.
+- Next create a repository by going to the card in the top left and inputting a name for the repository then clicking the green "create new reposity" 
+button. For this class, it is best to create a public repository so that other classmates can see it.
+- Next, click "uploading an existing file" and select the file we created last class. 
+- Once you are finished, you can send me the url for your repository and I will add it to the course so others can see your code. 
+
+
