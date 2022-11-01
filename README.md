@@ -22,5 +22,5 @@ All content will be posted online on GitHub. If an in-person class is missed, a 
 - **Module 4:** Making an API (REST API's, Mongo DB)
 - **Module 5:** AWS and Deploying Applications
 - **Module 6:** Making responsive frontend applications (React JS)
-- **Module 7:** Material UI and Docker
+- **Module 7:** Cleaning up and Packaging your App with Material UI and Docker
 - **Module 8:** Putting it all together
