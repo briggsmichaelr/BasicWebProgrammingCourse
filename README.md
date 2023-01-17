@@ -18,7 +18,7 @@ All content will be posted online on GitHub. If an in-person class is missed, a 
 ### Tentative Class Schedule
 - [**Module 1:**](https://github.com/briggsmichaelr/BasicWebProgrammingCourse/tree/main/module1) Class Introduction, Install Node and VS Code, Command Line, Basic program (strings, variables, arrays, loops, if statements)
 - [**Module 2:**](https://github.com/briggsmichaelr/BasicWebProgrammingCourse/tree/main/module2) Source Control (GitHub), list operations (concat, pop, sort), functions, object oriented programming
-- **Module 3:** Making a webpage (Basic HTML, Basic CSS, JavaScript)
+- [**Module 3:**](https://github.com/briggsmichaelr/BasicWebProgrammingCourse/tree/main/module3) Making a webpage (Basic HTML, Basic CSS, JavaScript)
 - **Module 4:** Making an API (REST API's, Mongo DB)
 - **Module 5:** AWS and Deploying Applications
 - **Module 6:** Making responsive frontend applications (React JS)
